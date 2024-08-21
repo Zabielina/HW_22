@@ -1,0 +1,11 @@
+{
+ 
+  "version": "1.0.0",
+  "main": "cluster.js",
+  "type": "module",
+  "scripts": {
+    "start": "node cluster.js",
+    "dev": "node worker_threads.js"
+  },
+  "dependencies": {}
+}
